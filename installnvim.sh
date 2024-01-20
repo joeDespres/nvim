@@ -13,4 +13,4 @@ sudo dpkg -i ripgrep_13.0.0_amd64.deb
 rm ripgrep_13.0.0_amd64.deb
 rm bottom_0.9.4_amd64.deb
 
-git clone https://github.com/joeDespres/NvChad.git ~/.config/nvim --depth 1
+git clone git@github.com:joeDespres/NvChad.git ~/.config/nvim --depth 1
