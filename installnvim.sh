@@ -8,6 +8,7 @@ cargo install stylua
 chmod u+x nvim.appimage
 sudo mv nvim.appimage /usr/local/bin/nvim
 sudo apt-get install fuse -y
+sudo apt install clang -y
 sudo apt install python3.8-venv -y
 sudo apt install nodejs -y
 sudo apt-get install zsh -y
